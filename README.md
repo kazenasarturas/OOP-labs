@@ -15,4 +15,6 @@ The threshold is generally greater than 1 to avoid detecting events in constant 
 
 The data window length (number of measurements) for short-time power and long-time power are to be read from the keyboard as is the threshold value. 
 
+An example is show below:
 
+![image](https://user-images.githubusercontent.com/43984321/46673162-0e1a2d00-cbd1-11e8-8e89-1ed31369ec61.png)
