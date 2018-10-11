@@ -1,4 +1,4 @@
-# OOP-labs
+# Seismometer
 This is a C/C++ laboratory project for a software development module at Dublin Institute of Technology.
 
 The aim of this assignment was to write a C++ Object Oriented program that reads seismometer data from a data (text) file named seismic.dat, determines whether seismic events have occurred and reports the data and findings to the screen in text format and stores the findings to a data file.
